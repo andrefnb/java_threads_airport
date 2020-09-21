@@ -1,0 +1,17 @@
+5012
+Lisboa
+12:00
+1
+25;comboio;Lobito
+25;comboio;Lobito
+20;comboio;Restinga
+30;comboio;Restinga
+20;autocarro;Benguela
+30;autocarro;Benguela
+50;autocarro;Cubal
+
+5013
+Lisboa
+13:00
+2
+25;autocarro;Funchal
